@@ -1,0 +1,13 @@
+{
+  "type": "postgres",
+  "host":"192.168.99.101",
+  "port": 5432,
+  "username":"postgres",
+  "password":"docker",
+  "database":"feracode",
+  "entities": ["./src/models/*.ts"],
+  "migrations": ["./src/database/migratios/*.ts"],
+  "cli": {
+    "migrationsDir": "./src/database/migratios"
+  }
+}
