@@ -1,4 +1,3 @@
-
 # Clone Twitter
 
  Twitter fake is an app for study purposes to improve layout and development techniques. 
@@ -13,7 +12,7 @@
 
 - Esta app  tem as funcionalidades mais usadas no twitter logo o usuário fará seu cadastro e em seguida logar na aplicação tera acesso ao painel e  poderá fazer seus twitter e ver os twitter de outros usuários. Tambem possui uma parte para completar eu perfil e incluir seu avatar.
 
-### Por quê foi criado? :tw-261d:
+### Por quê foi criado?
 
 - Com o objetivo de aprimorar o conhecimento, nesse projeto você poderá encontrar conceitos de S.O.L.I.D.E e uso de typescript e TypeORM, portando é uma  ótima oportunidade de você poder conhecer mais e ou fazer alguma contribuição no mesmo, ficarei muito feliz se tiver algum feedback desta aplicação.
 
@@ -72,5 +71,6 @@ https://typeorm.io/#/
 
 Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
+
 ------------
 
