@@ -1,10 +1,13 @@
 
 # Clone Twitter
- Twitter fake is an app for study purposes to improve layout and development techniques.
+
+ Twitter fake is an app for study purposes to improve layout and development techniques. 
+ 
+ ------------
  
 ![teste](https://github.com/jaderpinheiro/twitter-clone/blob/master/fontend/twitter-clone-reactjs-typescript-node-projeto.jpg "teste")
 
-
+------------
 
 ### Sobre esse projeto
 
@@ -69,4 +72,5 @@ https://typeorm.io/#/
 
 Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
+------------
 
